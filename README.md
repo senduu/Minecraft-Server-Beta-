@@ -1,1 +1,3 @@
-# Minecraft-Server-Beta-
+RU: Этот Майнкрафт сервер мы делали вместе с другом но забили на него по своим причинам, и мы просто выложим его сдесь, вдруг он кому то понадобится. Сервер сделан на версии 1.20.4 некоторых плагинов либо нет либо они не настроены до конца, в основном готовый сервер, можете его использовать как базу для своего сервера, тематика сервера анархия.
+
+ENG: A friend and I made this Minecraft server, but we abandoned it for our own reasons, so we're just posting it here in case anyone needs it. The server is built on version 1.20.4: some plugins are either missing or not fully configured. It's basically a ready-made server: you can use it as a base for your own. The server theme is anarchy.
